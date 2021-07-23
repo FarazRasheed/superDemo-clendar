@@ -54,7 +54,7 @@ dependencies {
     androidTestImplementation(Libraries.junitTest)
     androidTestImplementation(Libraries.espressoCore)
 
-    api("com.github.FarazRasheed:materialeventscalendar:1.0.7")
+    api(ExternalLibs.calendar)
 
     // Customise Calender
 //    api 'com.github.FarazRasheed:materialeventscalendar:1.0.7'
